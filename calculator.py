@@ -16,3 +16,12 @@ def main():
  while True:
      choice = input('Choose (1/2/3/4 or 0): ').strip()
      if choice == '0':
+       print(' Bye!' ); break
+     if choice not in {'1', '2', '3', '4'}:
+        print('Invalid choice.'); continue
+     x = get_number('First number: ')
+     y = get_number('Second number: ')
+     if choice == '1': print('Result:', add(x, y))
+     elif choice == '2': print('Result:', subtract(x, y))
+     elif choice == '3': print('Result:', multiply(x, y))
+     elif choice == '4': print ('Result:', divide (x, y))
