@@ -9,3 +9,10 @@ def get_numer(prompt):
          return float(input(prompt))
        execpt ValueError:
           print('Please enter a valid number.')
+
+def main():
+   print('Simple Calculator')
+   print('1) Add 2) Subtract 3) Multpily 4) Divide 0) Exit')
+ while True:
+     choice = input('Choose (1/2/3/4 or 0): ').strip()
+     if choice == '0':
