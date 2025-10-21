@@ -10,3 +10,4 @@ python calculator.py
 Lisätään uusia ominaisuuksia
 Potenssilasku (x**y) haarassa: feature-power
 Työn alla: lisätään myöhemmin neliöjuuri- ja faktoriaal.
+ revert testi (vahinko...)
