@@ -9,3 +9,4 @@ python calculator.py
 
 Repo kloonattu
 Konflikti
+Aiheutetaan konflikti
