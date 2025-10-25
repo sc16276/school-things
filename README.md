@@ -10,3 +10,5 @@ python calculator.py
 Repo kloonattu
 Konflikti
 Aiheutetaan konflikti
+
+Merge konflikti luotu ja ratkaistu
