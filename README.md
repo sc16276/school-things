@@ -15,3 +15,5 @@ Merge konflikti luotu ja ratkaistu
 
 muistiinpano kansio
 Tämä rivi on cherry pickattavaksi
+
+Cherry pick tehty onnistuneesti muistiinpano kansiosta
