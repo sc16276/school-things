@@ -12,3 +12,6 @@ Konflikti
 Aiheutetaan konflikti
 
 Merge konflikti luotu ja ratkaistu
+
+muistiinpano kansio
+Tämä rivi on cherry pickattavaksi
