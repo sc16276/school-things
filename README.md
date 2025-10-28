@@ -7,7 +7,7 @@ Simppelit operaatiot, plus, miinus, jako, kertominen
 Run the program in Git Bash with:
 python calculator.py
 
-<<<<<<< HEAD
+
 Repo kloonattu
 Konflikti
 Aiheutetaan konflikti
