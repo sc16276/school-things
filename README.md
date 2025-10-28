@@ -26,3 +26,10 @@ Työn alla: lisätään myöhemmin neliöjuuri- ja faktoriaal.
 Mergettiin perus pohja ja potenssi feature masteriin
 
 Feature haarat mergetty masteriin
+
+Tehty Rebase feature haaroille
+Pull request - kaikki mergetty
+
+Nyt laskin on toimiva ja tehty kaikki ohjeiden kohdat toimivasti
+Kohdat tehty hieman eri järjestyksessä, mutta suoritettu
+Laskin toimii bashissa python -u calculator.py komenolla
