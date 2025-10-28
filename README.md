@@ -16,13 +16,13 @@ Merge konflikti luotu ja ratkaistu
 
 muistiinpano kansio
 Tämä rivi on cherry pickattavaksi
+ feature-note
 
 Cherry pick tehty onnistuneesti muistiinpano kansiosta
-=======
 Lisätään uusia ominaisuuksia
 Potenssilasku (x**y) haarassa: feature-power
 Työn alla: lisätään myöhemmin neliöjuuri- ja faktoriaal.
->>>>>>> origin/feature-power
+origin/feature-power
 Mergettiin perus pohja ja potenssi feature masteriin
 
 Feature haarat mergetty masteriin
@@ -33,3 +33,4 @@ Pull request - kaikki mergetty
 Nyt laskin on toimiva ja tehty kaikki ohjeiden kohdat toimivasti
 Kohdat tehty hieman eri järjestyksessä, mutta suoritettu
 Laskin toimii bashissa python -u calculator.py komenolla
+
