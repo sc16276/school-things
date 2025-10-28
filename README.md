@@ -24,3 +24,5 @@ Potenssilasku (x**y) haarassa: feature-power
 Työn alla: lisätään myöhemmin neliöjuuri- ja faktoriaal.
 >>>>>>> origin/feature-power
 Mergettiin perus pohja ja potenssi feature masteriin
+
+Feature haarat mergetty masteriin
