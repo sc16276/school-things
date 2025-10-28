@@ -26,3 +26,5 @@ Työn alla: lisätään myöhemmin neliöjuuri- ja faktoriaal.
 Mergettiin perus pohja ja potenssi feature masteriin
 
 Feature haarat mergetty masteriin
+
+Tehty Rebase feature haaroille
