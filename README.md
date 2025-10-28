@@ -28,3 +28,4 @@ Mergettiin perus pohja ja potenssi feature masteriin
 Feature haarat mergetty masteriin
 
 Tehty Rebase feature haaroille
+Pull request - kaikki mergetty
